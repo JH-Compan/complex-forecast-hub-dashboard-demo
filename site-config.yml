@@ -1,6 +1,6 @@
 ---
-hub: "hubverse-org/dashboard-test-hub/"
-title: "Dashboard Test Hub"
+hub: "hubverse-org/example-complex-forecast-hub"
+title: "Example Complex Forecast Hub - Demo"
 pages:
   - "about.md"
 html:
