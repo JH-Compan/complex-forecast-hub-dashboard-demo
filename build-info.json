@@ -1,5 +1,5 @@
 {
-  "build_timestamp": "2026-06-16T00:25:06Z",
+  "build_timestamp": "2026-06-16T00:32:46Z",
   "predtimechart": {
     "version": "v2.3.0",
     "repo": "hubverse-org/hub-dashboard-predtimechart",
@@ -18,8 +18,8 @@
   "dashboard": {
     "repo": "JH-Compan/complex-forecast-hub-dashboard-demo",
     "branch": "main",
-    "commit": "5dddc75",
-    "url": "https://github.com/JH-Compan/complex-forecast-hub-dashboard-demo/commit/5dddc75c42730d27f498e00b9be479dba1ae1bb0"
+    "commit": "910d512",
+    "url": "https://github.com/JH-Compan/complex-forecast-hub-dashboard-demo/commit/910d512291edd912d2236c121fc19ba359b86323"
   },
   "hub": {
     "repo": "hubverse-org/example-complex-forecast-hub",
