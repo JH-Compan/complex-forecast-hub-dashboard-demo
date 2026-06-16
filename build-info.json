@@ -1,0 +1,35 @@
+{
+  "build_timestamp": "2026-06-16T00:25:06Z",
+  "predtimechart": {
+    "version": "v2.3.0",
+    "repo": "hubverse-org/hub-dashboard-predtimechart",
+    "url": "https://github.com/hubverse-org/hub-dashboard-predtimechart/releases/tag/v2.3.0"
+  },
+  "predevals_docker": {
+    "image": "ghcr.io/hubverse-org/hubpredevalsdata-docker:latest",
+    "digest": "sha256:885b64c59e8e07d549fed4be82a6cf76b76372696de8d53ff11ef4cb532368a8",
+    "url": "https://github.com/hubverse-org/hubPredEvalsData-docker/pkgs/container/hubpredevalsdata-docker"
+  },
+  "site_builder": {
+    "image": "ghcr.io/hubverse-org/hub-dash-site-builder:latest",
+    "digest": "sha256:4b6029d59b626d9082f463dd56f9fd2f5f626ac8030322f05cbcaaa4359be1b0",
+    "url": "https://github.com/hubverse-org/hub-dash-site-builder/pkgs/container/hub-dash-site-builder"
+  },
+  "dashboard": {
+    "repo": "JH-Compan/complex-forecast-hub-dashboard-demo",
+    "branch": "main",
+    "commit": "5dddc75",
+    "url": "https://github.com/JH-Compan/complex-forecast-hub-dashboard-demo/commit/5dddc75c42730d27f498e00b9be479dba1ae1bb0"
+  },
+  "hub": {
+    "repo": "hubverse-org/example-complex-forecast-hub",
+    "branch": "main",
+    "commit": "a263744",
+    "url": "https://github.com/hubverse-org/example-complex-forecast-hub/commit/a2637444ce8cd3c27e4b55082efe953e39f8c952"
+  },
+  "control_room": {
+    "repo": "hubverse-org/hub-dashboard-control-room",
+    "ref": "main",
+    "url": "https://github.com/hubverse-org/hub-dashboard-control-room"
+  }
+}
